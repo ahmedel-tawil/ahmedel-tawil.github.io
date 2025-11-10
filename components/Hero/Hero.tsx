@@ -122,7 +122,8 @@ export default function HeroSection() {
                             <Briefcase size={20} className="text-accent"/>
                             <span className="text-sm">
                 <span className="text-text-secondary">Currently:</span>{' '}
-                                <span className="text-accent font-semibold">Robotics Engineer @ ADNOC</span>
+                                <span
+                                    className="text-accent font-semibold">Robotics Engineer @ M&J Oil Services (ADNOC)</span>
               </span>
                         </motion.div>
 
